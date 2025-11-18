@@ -6,9 +6,7 @@ This project demonstrates the application of **Object-Oriented Programming (OOP)
 
 * **Encapsulation:** User and Transaction data are encapsulated with properties and methods, controlling access to sensitive information like PIN and balance.
 * **Abstraction:** Users interact with a simple menu interface without needing to know internal logic or data handling.
-* **Inheritance:** Can be extended to create different user types (e.g., admin, premium users).
-* **Polymorphism:** Future methods can handle multiple transaction types using the same interface.
-
+  
 ---
 
 ## Features
@@ -26,20 +24,15 @@ This project demonstrates the application of **Object-Oriented Programming (OOP)
 
 ### Requirements
 
-* .NET 6.0 or later
-* Any C# compatible IDE (Visual Studio, VS Code)
+* .NET 8.0
+* Any C# compatible IDE Visual Studio
 
 ### How to Run
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/instapay-mini.git
-   ```
-2. Open the solution in Visual Studio or VS Code.
-3. Build the project.
-4. Run the console application.
-5. Follow the on-screen menu to interact with the system.
+1. Open the solution in Visual Studio
+1. Build the project.
+3. Run the console application.
+4. Follow the on-screen menu to interact with the system.
 
 ---
 
