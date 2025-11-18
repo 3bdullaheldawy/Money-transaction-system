@@ -1,4 +1,4 @@
-# InstaPay Mini
+# Mony-transaction-app
 
 **InstaPay Mini** is a simple C# console application that simulates a mini money transfer app. It allows users to sign up, log in, send and receive money, deposit, withdraw, and view transaction history. All critical actions require PIN confirmation for security.
 
